@@ -19,7 +19,7 @@ This project uses **synthetically generated images** for training. Each image co
 
 1. **Clone the repository**:
    ```bash
-   git clone [[GitHub Repo URL]](https://github.com/rishikam23/Object-Localization-using-Tensorflow)
+   git clone 'https://github.com/rishikam23/Object-Localization-using-Tensorflow'
    cd object-localization-tensorflow
    ```
 2. **Install Dependencies**
